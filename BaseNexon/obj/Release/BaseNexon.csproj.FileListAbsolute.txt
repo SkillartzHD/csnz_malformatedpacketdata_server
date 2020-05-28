@@ -1,0 +1,20 @@
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\bin\Release\BaseNexonCSNZ.exe
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\bin\Release\BaseNexonCSNZ.pdb
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexonCSNZ.g.resources
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\SimpleSniffer.FormCSNZExplota.resources
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexonCSNZ.Properties.Resources.resources
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexon.csproj.GenerateResource.cache
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexon.csproj.CoreCompileInputs.cache
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexonCSNZ.exe
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexonCSNZ.pdb
+C:\Users\zanyx\Desktop\SimpleSniffer\SimpleSniffer\obj\Release\BaseNexon.csprojAssemblyReference.cache
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\bin\Release\BaseNexonCSNZ.exe
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\bin\Release\BaseNexonCSNZ.pdb
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexon.csprojAssemblyReference.cache
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexonCSNZ.g.resources
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\SimpleSniffer.FormCSNZExplota.resources
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexonCSNZ.Properties.Resources.resources
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexon.csproj.GenerateResource.cache
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexon.csproj.CoreCompileInputs.cache
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexonCSNZ.exe
+C:\Users\zanyx\Desktop\NexonBase FakeClient\BaseNexon\obj\Release\BaseNexonCSNZ.pdb
